@@ -1,0 +1,10 @@
+<!-- Snippet for a custom text block -->
+<div class="custom-text-block">
+  {% if include.title %}
+    <h2 class="custom-text-block-title">{{ include.title }}</h2>
+  {% endif %}
+
+  {% if include.text %}
+    <p class="custom-text-block-text">{{ include.text }}</p>
+  {% endif %}
+</div>
