@@ -114,11 +114,18 @@
              "padding_top":44,
              "padding_bottom":36
           }
-       }
+       },
+       "my-custom-section": {
+        "type": "my-custom-section",
+        "settings": {
+          "heading": "Welcome to Our Store"
+        }
+      }
     },
     "order":[
        "image_banner",
        "image_with_text_NAbaeV",
-       "featured_collection"
+       "featured_collection",
+       "my-custom-section"
     ]
  }
