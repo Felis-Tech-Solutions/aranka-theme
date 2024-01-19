@@ -120,20 +120,12 @@
       "settings": {
         "heading": "Yo Marcie"
       }
-    },
-    "global-section": {
-        "type": "my-custom-section",
-        "settings": {
-          "heading": "Yo Marcie",
-          "text": "This is a global section"
-        }
-      }
+    }
   },
   "order": [
     "image_banner",
     "image_with_text_NAbaeV",
     "featured_collection",
-    "my-custom-section",
-    "global-section"
+    "my-custom-section"
   ]
 }
